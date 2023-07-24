@@ -37,4 +37,4 @@ color: #666; text-align: right; margin-bottom: 20px;}
 
 #box .inner .wrap article a{font: bold 12px/1 "arial";
 color: #333; border: 1px solid #888; display: inline-block;
-padding: 5px 20px;}
+padding: 5px 20px; transform: translate(200px, 0px);}
